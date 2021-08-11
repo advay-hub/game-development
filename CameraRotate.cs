@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class RotateCameraScript : MonoBehaviour
+public class CameraRotate : MonoBehaviour
 {
     public float RotationSpeed;
    
