@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FoodMovement : MonoBehaviour
+public class ObjectMovement : MonoBehaviour
 {
   public float speed = 40.0f;
    
